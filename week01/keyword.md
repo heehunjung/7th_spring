@@ -38,4 +38,4 @@
 ---
 
 ## 미션
-![img](week1-mission.jpg)
+![img](week1-mission.png)
