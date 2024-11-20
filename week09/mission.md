@@ -15,8 +15,11 @@
 
 ---
 
+### 진행중인 미션 업데이트
+![참여 중인 미션](진행중인미션_업데이트.png)
 ### 깃허브 링크
 
-1. [umc-spring issue 1](https://github.com/heehunjung/umc-spring/issues/1)  
-2. [umc-spring issue 1](https://github.com/heehunjung/umc-spring/issues/1)  
-4. [umc-spring issue 5](https://github.com/heehunjung/umc-spring/issues/5)
+1. [mission 1](https://github.com/heehunjung/umc-spring/issues/7)  
+2. [mission 2](https://github.com/heehunjung/umc-spring/issues/9)  
+3. [mission 3](https://github.com/heehunjung/umc-spring/issues/11)  
+4. [mission 4](https://github.com/heehunjung/umc-spring/issues/12)
